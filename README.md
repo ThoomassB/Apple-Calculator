@@ -2,7 +2,7 @@
 
 Une calculatrice moderne inspirée de l’interface iOS, codée à la main en **HTML / CSS / JavaScript**.
 
-![screenshot](screenshot.png)
+<img width="396" alt="Apple-Calculator" src="https://github.com/user-attachments/assets/0240d663-b7a4-4859-876e-7ad79c98e8e9" />
 
 ## ✨ Fonctions
 
